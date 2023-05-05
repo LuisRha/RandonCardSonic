@@ -1,0 +1,10 @@
+flex-container {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+  }
+  
+  .image {
+    width: 200px;
+    height: 150px;
+  }
